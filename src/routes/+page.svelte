@@ -32,5 +32,5 @@
         {/each}
     </section>
 {:else}
-    <p>Loading companies...</p>
+    <p class="text-center text-3xl">Loading companies...</p>
 {/if}
